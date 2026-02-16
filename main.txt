@@ -2,7 +2,11 @@ Fichier commun
 Version initiale
 <<<<<<< HEAD
 Ligne_A Au revoir
-Ligne_B Je crois que je suis le plus rapide
+<<<<<<< HEAD
+Ligne_B
+=======
+Ligne_B le plus rapide c'est moiiiiiiiiiiiiiiiiiiiiiiiii
+
 =======
 Ligne_A
 Ligne_B bonjouuuuuuuur
