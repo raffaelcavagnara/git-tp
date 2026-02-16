@@ -1,7 +1,12 @@
 Fichier commun
 Version initiale
+<<<<<<< HEAD
 Ligne_A Au revoir
 Ligne_B
+=======
+Ligne_A
+Ligne_B bonjouuuuuuuur
+>>>>>>> 73bff1a3bb147abe918d0c7cf33e125bdf9089ea
 Ligne_C
 Modif de User_A
 
