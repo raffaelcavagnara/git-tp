@@ -1,7 +1,7 @@
 Fichier commun
 Version initiale
 Ligne_A
-Ligne_B
+Ligne_B bonjouuuuuuuur
 Ligne_C
 Modif de User_A
 
